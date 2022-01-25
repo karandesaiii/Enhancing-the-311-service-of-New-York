@@ -1,5 +1,5 @@
 # Description
-Forecasting 311 complaints in New York and using Data Analytics to enhance resource allocation and operational management.
+Forecasting 311 complaints in New York and using Data Analytics to enhance decision making and allocation of resources.
 
 # Dataset
 Subset of 1 million rows was used from this dataset - https://www.kaggle.com/new-york-city/ny-311-service-requests
