@@ -1,7 +1,7 @@
 # Optimizing-311-service-of-New-York-City
 Forecasting 311 complaints in New York City and using Data Analytics to enhance resource allocation and operational management.
 
-#Dataset
+# Dataset
 https://www.kaggle.com/new-york-city/ny-311-service-requests
 
 While the code is fully commented, one can use the PPT file for gaining better understanding on usage of this analysis and forecasting results. 
