@@ -1,5 +1,5 @@
 # Description
-Forecasting complaints for New York's 311 service and using Data Analytics to enhance decision making and allocation of resources.
+Forecasting complaints for New York's 311 service through Gradient Boosting and using Data Analytics to enhance decision making and allocation of resources.
 
 Note: IPYNB might not render on browser due to large size. Please view by entering its URL on [nbviewer](https://nbviewer.org/) or by downloading.
 
